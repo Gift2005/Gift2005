@@ -1,0 +1,34 @@
+1 <title app Chillout>
+2 {language=en
+3.  <head>
+4.     <meta
+5.   <title>hello world< title
+6. <head> 
+7.  <form name =login
+8.  Password:confirm password
+8. Unit : function
+9.        this element ( can .view/app / views/sign
+  
+10. this element.parent () add ( login- screen
+
+ 11.  App.db.getsetting () then function (setting)
+       App.atrr(setting:)
+      self.element.find(login-remember
+12.  App.db.get Logged Account () then function
+   if ( account)
+    self.options.atrr( username,account
+    self .options.ayer(password account
+  
+13.  (print) block a member
+             unblock a member
+14. Self option ( chats account
+      self option online users 
+15.  <set status> 
+16. <app element>= voice note, video call, message
+      <app element= last seen,
+
+17.  App.db.groups 
+     Privacy account hide members 
+18. <logo app> = 
+
+19.  Marked ( seen message
